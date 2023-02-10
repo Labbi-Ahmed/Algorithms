@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+/// using kidn's algorithm for solving this problem and its take 
+/// time = O(n);
+// space  = O(n);
 class Solution
 {
 public:
