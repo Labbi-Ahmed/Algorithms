@@ -14,6 +14,7 @@ public:
             maxsum = max(maxsum, ans);
             if(ans<0) ans = 0;
         }
+        return maxsum;
     }
 };
 
